@@ -4,14 +4,15 @@ The Company recognizes that the disciplines of confidentiality, integrity and av
 Information Security and Personal Information Management (GDPR requirements) are integral
 parts of its management function.
 
+This policy applies to:
+All employees, contractors, and third‑party processors of BISMILLAH GROUP (UK) LTD.
+All information assets (electronic, paper, verbal).
+All processing of personal data via our Android mobile application ("Profit Plus").
+
 The Management of BISMILLAH GROUP (UK) LTD views these as primary responsibilities and fundamental to the best business practice of adopting
 appropriate Information Security Controls, along the lines laid down in the BS ISO/IEC 27001:2013
 and BS10012-2017 standards.
 
-It is the Company's information security and Personal Information Management (GDPR
-requirements) policy to seek to operate to the highest standards continuously and to implement
-and operate fully to BS ISO/IEC 27001:2013 and BS10012-2017 standards, including continual
-improvement, through registration and annual review.
 The Company will:
  Comply with all a
 pplicable laws and regulations and contractual obligations;
