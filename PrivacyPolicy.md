@@ -14,8 +14,7 @@ appropriate Information Security Controls, along the lines laid down in the BS I
 and BS10012-2017 standards.
 
 The Company will:
- Comply with all a
-pplicable laws and regulations and contractual obligations;
+ Comply with all applicable laws and regulations and contractual obligations;
 Implement continual improvement initiatives, including risk assessment and risk
 treatment strategies, while making best use of its management resources to
 better meet information security requirements;
